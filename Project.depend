@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1639754385 source:c:\users\ayush\desktop\semester 3\project\main.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<stdlib.h>
+
+1624533056 c:\users\ayush\desktop\semester 3\project\bass.h
+	<winapifamily.h>
+	<wtypes.h>
+	<stdint.h>
+
